@@ -1,10 +1,10 @@
 def resumo():
-    mensagem = "Alan Mathison Turing  foi um matemático britânico, pioneiro da computação e considerado o pai da ciência computacional e da inteligência artificial."
+    mensagem = "Steve Jobs foi um empresário e inventor norte-americano, cofundador da Apple Inc."
     return mensagem
 
 
 def doutorado():
-    mensagem = ""
+    mensagem = "Steve Jobs não possuia doutorado."
     return mensagem
 
 
